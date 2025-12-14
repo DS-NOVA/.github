@@ -8,10 +8,12 @@
 > 팀: 김박감 <br>
 > 개발 기간: 2025.03 ~ 2025.11 <br>
 
+
 ## Repository
 > Frontend: https://github.com/DS-NOVA/frontend <br>
 > Backend: https://github.com/DS-NOVA/backend <br>
 > AI: https://github.com/DS-NOVA/AI <br>
+
 
 ## Collaborators
 <table align="left">
@@ -45,8 +47,11 @@
 <br>
 <br>
 <br>
+
+
 ## Service Architecture
 <img width="1041" height="606" alt="image" src="https://github.com/user-attachments/assets/d546521d-c3b9-43f4-8a5f-c3e526f2bd4a" />
+
 
 ## Main Feature
 - 대시보드: 사용자가 업로드한 영상을 한눈에 확인하고, 분석 결과 및 필터링 상태를 조회
@@ -56,6 +61,7 @@
 - 사용자 맞춤형 필터링: 밝기, 채도 갇오를 사용자가 직접 조절해 맞춤 필터링 적용
 - 가이드라인 검사: ITC 가이드라인의 광과민성 기준을 자동으로 확인하고 통과 여부를 표시
 - 사용자 피드백: 사용자는 결과에 만족도 평가 및 개선 의견을 제출 가능
+
 
 ## Preview
 <p align="left"">

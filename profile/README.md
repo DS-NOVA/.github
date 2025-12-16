@@ -65,26 +65,26 @@
 
 ## Preview
 <p align="left"">
-  <img src="images/1.png" width="800" alt="Preview 1" />
+  <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/47680bb3-03d0-471d-ab8f-7bd56fda33f8" />
 </p>
 <p align="left"">
-  <img src="images/2.png" width="800" alt="Preview 2" />
+  <img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/ca2640e7-1ec2-47d2-963a-c332cf9e60f2" />
 </p>
 <p align="left"">
-  <img src="images/3.jpg" width="800" alt="Preview 3" />
+  <img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/96cbd983-82cf-4636-9f14-0b4560303f3d" />
 </p>
 <p align="left"">
-  <img src="images/4.png" width="800" alt="Preview 4" />
+  <img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/a640b446-b608-4fac-b396-6d458455ccdb" />
 </p>
 <p align="left"">
-  <img src="images/5.png" width="800" alt="Preview 5" />
+  <img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/2cee5178-a947-4ca9-9ca1-307fad708c2b" />
 </p>
 <p align="left"">
-  <img src="images/6.png" width="800" alt="Preview 6" />
+  <img width="1920" height="1080" alt="10" src="https://github.com/user-attachments/assets/8af6ab79-b68d-4bc7-bc1f-79b48750f1fc" />
 </p>
 <p align="left"">
-  <img src="images/7.png" width="800" alt="Preview 7" />
+  <img width="1920" height="1080" alt="11" src="https://github.com/user-attachments/assets/858cdc59-5862-494b-9f3a-0869a3a73774" />
 </p>
 <p align="left"">
-  <img src="images/8.png" width="800" alt="Preview 8" />
+  <img width="1920" height="1080" alt="12" src="https://github.com/user-attachments/assets/00fb89f5-e413-4cc0-8312-f7fe594f8eab" />
 </p>

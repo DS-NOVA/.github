@@ -50,7 +50,8 @@
 
 
 ## Service Architecture
-<img width="1041" height="606" alt="image" src="https://github.com/user-attachments/assets/d546521d-c3b9-43f4-8a5f-c3e526f2bd4a" />
+<img width="1408" height="819" alt="MacBook Air - 1 (1)" src="https://github.com/user-attachments/assets/d61f2793-09ab-40ea-b2c9-ee3eedbfc6a9" />
+
 
 
 ## Main Feature
